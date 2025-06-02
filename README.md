@@ -28,3 +28,11 @@ This is a classic Snake Game built using **Python** and **Pygame**. The game is 
 
 ```bash
 pip install pygame
+
+Run the Game 
+
+python Snake_Game.py
+
+ 📹 Game Demo
+
+🎬 [Click here to watch the Snake Game Demo on Google Drive](https://drive.google.com/file/d/18rbTfkXP9ZF0VSoHCe9b6DXdjyk8YTIX/view?usp=drive_link)
