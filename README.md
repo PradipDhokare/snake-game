@@ -1,4 +1,4 @@
-# 🐍 Snake Game in Python
+ 🐍 Snake Game in Python
 
 This is a classic Snake Game built using **Python** and **Pygame**. The game is simple, fun, and a great project to understand how logic, conditions, loops, and events work in Python game development.
 
